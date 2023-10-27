@@ -18,6 +18,8 @@ class ViewController: UIViewController {
         // let bee = 6789
     var bee = 20
         print(bee)
+        // let spider = 20020
+    
     }
 
 }
