@@ -16,7 +16,8 @@ class ViewController: UIViewController {
 
     override func viewDidAppear(_ animated: Bool) {
         // let bee = 6789
-    
+    var bee = 20
+        print(bee)
     }
 
 }
